@@ -48,7 +48,6 @@
 
 - 🌐 **Strony i aplikacje internetowe** — od wizytówek po rozbudowane panele klienta, dopasowane do potrzeb konkretnej firmy
 - ⚙️ **Systemy i automatyzacje** — narzędzia usprawniające codzienną pracę: zarządzanie danymi, generowanie dokumentów, powiadomienia, harmonogramy (Celery)
-- 🔐 **Uwierzytelnianie i bezpieczeństwo** — OAuth, 2FA, weryfikacja e-mail, bezpieczne sesje (httpOnly cookies), reCAPTCHA
 - 🐳 **Wdrożenia produkcyjne** — Docker Compose, konfiguracja pod produkcję (fail-fast na brak sekretów, HTTPS, CI/CD)
 
 ---
