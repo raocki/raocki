@@ -1,10 +1,11 @@
 <h1 align="center">Cześć, jestem Raocki 👋</h1>
 
-<h3 align="center">Full-stack developer • buduję aplikacje webowe dla małych firm i freelancerów</h3>
+<h3 align="center">Full-stack developer • tworzę strony i aplikacje internetowe dla małych firm</h3>
 
 <p align="center">
-  Specjalizuję się w narzędziach biznesowych "szytych na miarę" — fakturowanie, automatyzacje,
-  panele do zarządzania danymi. Od pomysłu, przez backend i frontend, po wdrożenie w Dockerze.
+  Buduję strony i aplikacje webowe "szyte na miarę" — od wizytówek i landing page'y,
+  przez panele klienta, po systemy automatyzujące codzienną pracę. Od pomysłu,
+  przez backend i frontend, po wdrożenie w Dockerze.
 </p>
 
 ---
@@ -45,8 +46,8 @@
 
 ### 💼 Czym się zajmuję
 
-- 🧾 **Systemy do fakturowania i księgowości** — automatyczne liczenie VAT, generowanie PDF, wysyłka mailem, śledzenie statusów płatności
-- 📊 **Automatyzacje i scraping** — zbieranie i monitorowanie danych z zewnętrznych serwisów, alerty, harmonogramy (Celery)
+- 🌐 **Strony i aplikacje internetowe** — od wizytówek po rozbudowane panele klienta, dopasowane do potrzeb konkretnej firmy
+- ⚙️ **Systemy i automatyzacje** — narzędzia usprawniające codzienną pracę: zarządzanie danymi, generowanie dokumentów, powiadomienia, harmonogramy (Celery)
 - 🔐 **Uwierzytelnianie i bezpieczeństwo** — OAuth, 2FA, weryfikacja e-mail, bezpieczne sesje (httpOnly cookies), reCAPTCHA
 - 🐳 **Wdrożenia produkcyjne** — Docker Compose, konfiguracja pod produkcję (fail-fast na brak sekretów, HTTPS, CI/CD)
 
@@ -60,8 +61,3 @@
 | [**PropTrack**](https://github.com/raocki/proptrack) | Monitoring cen nieruchomości z Otodom — scraping, alerty cenowe | Scrapy, FastAPI, Celery, Next.js |
 
 ---
-
-### 📫 Kontakt
-
-Otwarty na współpracę freelance — pisz śmiało, jeśli szukasz kogoś do zbudowania
-narzędzia webowego dla Twojej firmy.
