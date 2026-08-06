@@ -1,11 +1,8 @@
 <h1 align="center">Cześć, jestem Raocki 👋</h1>
 
-<h3 align="center">Full-stack developer • tworzę strony i aplikacje internetowe dla małych firm</h3>
-
 <p align="center">
-  Buduję strony i aplikacje webowe "szyte na miarę" — od wizytówek i landing page'y,
-  przez panele klienta, po systemy automatyzujące codzienną pracę. Od pomysłu,
-  przez backend i frontend, po wdrożenie w Dockerze.
+  Buduję strony i aplikacje webowe od wizytówek i landing page'y,
+  przez panele klienta, po systemy automatyzujące codzienną pracę.
 </p>
 
 ---
@@ -49,14 +46,5 @@
 - 🌐 **Strony i aplikacje internetowe** — od wizytówek po rozbudowane panele klienta, dopasowane do potrzeb konkretnej firmy
 - ⚙️ **Systemy i automatyzacje** — narzędzia usprawniające codzienną pracę: zarządzanie danymi, generowanie dokumentów, powiadomienia, harmonogramy (Celery)
 - 🐳 **Wdrożenia produkcyjne** — Docker Compose, konfiguracja pod produkcję (fail-fast na brak sekretów, HTTPS, CI/CD)
-
----
-
-### 📌 Wybrane projekty
-
-| Projekt | Opis | Stack |
-|---|---|---|
-| [**InvoiceFlow**](https://github.com/raocki/InvoiceFlow) | System do wystawiania faktur dla małych firm — VAT, PDF, 2FA, autonumeracja | FastAPI, Next.js, PostgreSQL |
-| [**PropTrack**](https://github.com/raocki/proptrack) | Monitoring cen nieruchomości z Otodom — scraping, alerty cenowe | Scrapy, FastAPI, Celery, Next.js |
 
 ---
