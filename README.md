@@ -43,7 +43,7 @@
 
 ### 💼 Czym się zajmuję
 
-- 🌐 **Strony i aplikacje internetowe** — od wizytówek po rozbudowane panele klienta, dopasowane do potrzeb konkretnej firmy
+- 🌐 **Strony i aplikacje internetowe** — od wizytówek po rozbudowane panele klienta, dopasowane do potrzeb
 - ⚙️ **Systemy i automatyzacje** — narzędzia usprawniające codzienną pracę: zarządzanie danymi, generowanie dokumentów, powiadomienia, harmonogramy (Celery)
 - 🐳 **Wdrożenia produkcyjne** — Docker Compose, konfiguracja pod produkcję (fail-fast na brak sekretów, HTTPS, CI/CD)
 
